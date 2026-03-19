@@ -72,12 +72,18 @@ lg: 24
 
 Captura del Design System
 
+Tokens
+
 ![Tokens](design-system/tokens.PNG)
 ![Tokens](design-system/tokens2.PNG)
 
+Componentes
+
 ![Componentes](design-system/componentes.PNG)
-![Componentes](design-system/componentes2.PNG)
+![Componentes](design-system/Componentes2.PNG)
 ![Componentes](design-system/componentes3.PNG)
+
+Recomendada
 
 ![Recomendada](design-system/recomendada.PNG)
 ![Recomendada](design-system/recomendada2.PNG)
