@@ -22,17 +22,17 @@ Capturas de Pantallas
 
 Dashboard
 
-![Dashboard](pantallas/pantalla1.png)
+![Dashboard](pantallas/pantalla1.PNG)
 
 
 Registro de medicamento
 
-![Registro](pantallas/pantalla2.png)
+![Registro](pantallas/pantalla2.PNG)
 
 
 Progreso
 
-![Progreso](pantallas/pantalla3.png)
+![Progreso](pantallas/pantalla3.PNG)
 
 Design System
 
