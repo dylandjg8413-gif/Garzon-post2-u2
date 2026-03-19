@@ -72,16 +72,16 @@ lg: 24
 
 Captura del Design System
 
-![Tokens](design-system/tokens.png)
-![Tokens](design-system/tokens2.png)
+![Tokens](design-system/tokens.PNG)
+![Tokens](design-system/tokens2.PNG)
 
-![Componentes](design-system/componentes.png)
-![Componentes](design-system/componentes2.png)
-![Componentes](design-system/componentes3.png)
+![Componentes](design-system/componentes.PNG)
+![Componentes](design-system/componentes2.PNG)
+![Componentes](design-system/componentes3.PNG)
 
-![Recomendada](design-system/recomendada.png)
-![Recomendada](design-system/recomendada2.png)
-![Recomendada](design-system/recomendada3.png)
+![Recomendada](design-system/recomendada.PNG)
+![Recomendada](design-system/recomendada2.PNG)
+![Recomendada](design-system/recomendada3.PNG)
 
 
 Accesibilidad (WCAG 2.1 AA)
