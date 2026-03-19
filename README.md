@@ -22,17 +22,17 @@ Capturas de Pantallas
 
 Dashboard
 
-![Dashboard](./pantallas/pantalla1.png)
+![Dashboard](pantallas/pantalla1.png)
 
 
 Registro de medicamento
 
-![Registro](./pantallas/pantalla2.png)
+![Registro](pantallas/pantalla2.png)
 
 
 Progreso
 
-![Progreso](./pantallas/pantalla3.png)
+![Progreso](pantallas/pantalla3.png)
 
 Design System
 
@@ -72,16 +72,16 @@ lg: 24
 
 Captura del Design System
 
-![Tokens](./design-system/tokens.png)
-![Tokens](./design-system/tokens2.png)
+![Tokens](design-system/tokens.png)
+![Tokens](design-system/tokens2.png)
 
-![Componentes](./design-system/componentes.png)
-![Componentes](./design-system/componentes2.png)
-![Componentes](./design-system/componentes3.png)
+![Componentes](design-system/componentes.png)
+![Componentes](design-system/componentes2.png)
+![Componentes](design-system/componentes3.png)
 
-![Recomendada](./design-system/recomendada.png)
-![Recomendada](./design-system/recomendada2.png)
-![Recomendada](./design-system/recomendada3.png)
+![Recomendada](design-system/recomendada.png)
+![Recomendada](design-system/recomendada2.png)
+![Recomendada](design-system/recomendada3.png)
 
 
 Accesibilidad (WCAG 2.1 AA)
